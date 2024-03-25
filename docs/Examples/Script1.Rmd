@@ -1,0 +1,14 @@
+---
+title: "Example 1"
+---
+
+This is the code that our Script 1 rst file is about.
+
+```{r}
+
+library(ggplot2)
+qplot(x = seq(-100, 100), y = seq(-100, 100)**2)
+
+```
+
+Clearly is what we say it is.

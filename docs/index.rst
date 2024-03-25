@@ -1,4 +1,4 @@
-Landing Page
+DNL Tutorial
 **********************
 
 Description
@@ -7,4 +7,5 @@ Description
    :maxdepth: 1
    :caption: Table of Contents
 
-   Template Page <Template.rst>
+   Script 1 <Script1.rst>
+   Script 2 <Script2.rst>
